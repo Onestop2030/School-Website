@@ -1,0 +1,13 @@
+
+#form_container
+{
+	padding:15px 15px;
+	margin-top:15px;
+	background:#808080;	
+}
+body {
+	background-color: #F4EAD5;
+	background-image: url("images/gate.NEF");
+	background-size: cover;
+}
+
